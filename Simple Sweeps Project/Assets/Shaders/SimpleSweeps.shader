@@ -40,7 +40,7 @@ Shader "Custom Mobile/Simple Sweeps (Unlit Transparent)" {
     }
 
     Fallback "Unlit/Transparent"
-	CustomEditor "SimpleSweepsEditor"
+	CustomEditor "SimpleSweeps.SimpleSweepsEditor"
 
 
     CGINCLUDE
